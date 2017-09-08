@@ -1,4 +1,4 @@
-# hellophonegap
+# [hellophonegap](https://github.com/rhildred/hellophonegap)
 
 phonegap hello world. The config.xml sets the name and id:
 
